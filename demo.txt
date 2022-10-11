@@ -1,0 +1,4 @@
+txt is a plain text file
+txt files is only plain text with no formatting
+md (markdown) is always used when you do readme
+md has formatting
