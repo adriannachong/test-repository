@@ -2,7 +2,15 @@ txt is a plain text file
 txt files is only plain text with no formatting
 md (markdown) is always used when you do readme
 md has formatting
-github is to store repository
+github is to store repository remotely
 git is a version control
 commit, push, pull, merge regularly when you're in a team
 'local' means your computer
+push to make changes to remote
+pull to see the changes and see the latest version of my group(?)
+if we're working on the same repository, our local will have different but our remote repository will be the same
+
+branches
+interchangably 'main' and 'master'
+readme and demo have been made on 'main' branch
+
