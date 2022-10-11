@@ -2,3 +2,7 @@ txt is a plain text file
 txt files is only plain text with no formatting
 md (markdown) is always used when you do readme
 md has formatting
+github is to store repository
+git is a version control
+commit, push, pull, merge regularly when you're in a team
+'local' means your computer
